@@ -33,7 +33,7 @@ python3 main.py
 ├── line.py         # Line between two points
 ├── cell.py         # Represents a single maze cell
 ├── maze.py         # Maze generation and solving logic
-├── test_maze.py    # Unit tests
+├── tests.py        # Unit tests
 ```
 
 
